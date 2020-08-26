@@ -1,0 +1,2 @@
+﻿This program is meant to function like an ATM. It has a withdraw method that takes 25.00 from the balance 100.00
+it also has a deposit method that gives 25.00 to the balance and a view balance method that shows the current balance.
